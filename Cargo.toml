@@ -1,0 +1,8 @@
+[package]
+name = "hamming_lsh_distribution"
+version = "0.1.0"
+authors = ["Geordon Worley <vadixidav@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+prettytable-rs = "0.8.0"
